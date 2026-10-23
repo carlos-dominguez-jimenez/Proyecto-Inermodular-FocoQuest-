@@ -1,0 +1,4307 @@
+[
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add especialidad",
+        "content_type": 7,
+        "codename": "add_especialidad"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change especialidad",
+        "content_type": 7,
+        "codename": "change_especialidad"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete especialidad",
+        "content_type": 7,
+        "codename": "delete_especialidad"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view especialidad",
+        "content_type": 7,
+        "codename": "view_especialidad"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add logro",
+        "content_type": 8,
+        "codename": "add_logro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change logro",
+        "content_type": 8,
+        "codename": "change_logro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete logro",
+        "content_type": 8,
+        "codename": "delete_logro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view logro",
+        "content_type": 8,
+        "codename": "view_logro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add obtencion logro",
+        "content_type": 9,
+        "codename": "add_obtencionlogro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change obtencion logro",
+        "content_type": 9,
+        "codename": "change_obtencionlogro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete obtencion logro",
+        "content_type": 9,
+        "codename": "delete_obtencionlogro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view obtencion logro",
+        "content_type": 9,
+        "codename": "view_obtencionlogro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add perfil usuario",
+        "content_type": 10,
+        "codename": "add_perfilusuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change perfil usuario",
+        "content_type": 10,
+        "codename": "change_perfilusuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete perfil usuario",
+        "content_type": 10,
+        "codename": "delete_perfilusuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view perfil usuario",
+        "content_type": 10,
+        "codename": "view_perfilusuario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add mascota",
+        "content_type": 11,
+        "codename": "add_mascota"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change mascota",
+        "content_type": 11,
+        "codename": "change_mascota"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete mascota",
+        "content_type": 11,
+        "codename": "delete_mascota"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view mascota",
+        "content_type": 11,
+        "codename": "view_mascota"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can add asignatura",
+        "content_type": 12,
+        "codename": "add_asignatura"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+        "name": "Can change asignatura",
+        "content_type": 12,
+        "codename": "change_asignatura"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+        "name": "Can delete asignatura",
+        "content_type": 12,
+        "codename": "delete_asignatura"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+        "name": "Can view asignatura",
+        "content_type": 12,
+        "codename": "view_asignatura"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add psicologo",
+        "content_type": 13,
+        "codename": "add_psicologo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change psicologo",
+        "content_type": 13,
+        "codename": "change_psicologo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete psicologo",
+        "content_type": 13,
+        "codename": "delete_psicologo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view psicologo",
+        "content_type": 13,
+        "codename": "view_psicologo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+        "name": "Can add sesion estudio",
+        "content_type": 14,
+        "codename": "add_sesionestudio"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+        "name": "Can change sesion estudio",
+        "content_type": 14,
+        "codename": "change_sesionestudio"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+        "name": "Can delete sesion estudio",
+        "content_type": 14,
+        "codename": "delete_sesionestudio"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+        "name": "Can view sesion estudio",
+        "content_type": 14,
+        "codename": "view_sesionestudio"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+        "name": "Can add registro animo",
+        "content_type": 15,
+        "codename": "add_registroanimo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+        "name": "Can change registro animo",
+        "content_type": 15,
+        "codename": "change_registroanimo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+        "name": "Can delete registro animo",
+        "content_type": 15,
+        "codename": "delete_registroanimo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+        "name": "Can view registro animo",
+        "content_type": 15,
+        "codename": "view_registroanimo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+        "name": "Can add tarjeta",
+        "content_type": 16,
+        "codename": "add_tarjeta"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+        "name": "Can change tarjeta",
+        "content_type": 16,
+        "codename": "change_tarjeta"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+        "name": "Can delete tarjeta",
+        "content_type": 16,
+        "codename": "delete_tarjeta"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+        "name": "Can view tarjeta",
+        "content_type": 16,
+        "codename": "view_tarjeta"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "Response but director air step challenge. Cold prove book different see record. Million discussion rest industry.",
+        "last_login": "1993-08-25T21:01:30.776Z",
+        "is_superuser": true,
+        "username": "qpowell",
+        "first_name": "James",
+        "last_name": "Jimenez",
+        "email": "sleonard@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T15:56:51.408Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+        "password": "Main product capital risk. Western room upon herself summer.",
+        "last_login": "2002-01-10T05:49:08.847Z",
+        "is_superuser": true,
+        "username": "liurobin",
+        "first_name": "Courtney",
+        "last_name": "Miller",
+        "email": "amycole@example.org",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-10-23T15:56:51.408Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+        "password": "Bad individual each article happy food.",
+        "last_login": "2009-04-09T10:35:59.556Z",
+        "is_superuser": true,
+        "username": "pchan",
+        "first_name": "Sherri",
+        "last_name": "Walker",
+        "email": "vmontoya@example.net",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T15:56:51.408Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+        "password": "Ready quickly want. Performance collection computer ago effect wonder fast first.",
+        "last_login": "2002-08-12T02:44:50.884Z",
+        "is_superuser": true,
+        "username": "thomas75",
+        "first_name": "Jennifer",
+        "last_name": "Middleton",
+        "email": "rhughes@example.net",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-10-23T15:56:51.408Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 5,
+    "fields": {
+        "password": "Yourself old no.\nRoad owner decide red realize. Scientist then charge role minute game for.",
+        "last_login": "1991-07-03T03:30:41.664Z",
+        "is_superuser": true,
+        "username": "theresaharris",
+        "first_name": "Michael",
+        "last_name": "Burnett",
+        "email": "alicia07@example.net",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T15:56:51.408Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 6,
+    "fields": {
+        "password": "Gas month foreign test. History performance buy need. Year soldier generation.",
+        "last_login": "2025-10-25T08:04:37.137Z",
+        "is_superuser": false,
+        "username": "iantaylor",
+        "first_name": "Gloria",
+        "last_name": "Ramos",
+        "email": "james03@example.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-10-23T15:56:51.408Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 7,
+    "fields": {
+        "password": "Out pressure perform understand modern. Professor activity however send.",
+        "last_login": "1978-03-14T07:44:44.372Z",
+        "is_superuser": false,
+        "username": "mcdanielmatthew",
+        "first_name": "Samuel",
+        "last_name": "Matthews",
+        "email": "williamwilliams@example.net",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-10-23T15:56:51.408Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 8,
+    "fields": {
+        "password": "Serve upon sound. Determine away it now around.",
+        "last_login": "1970-08-21T22:43:14.362Z",
+        "is_superuser": false,
+        "username": "rhondaharris",
+        "first_name": "Brandon",
+        "last_name": "Mason",
+        "email": "danny07@example.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-10-23T15:56:51.408Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 9,
+    "fields": {
+        "password": "Break approach charge it simple black particular. Success yourself growth understand must couple kitchen memory.",
+        "last_login": "2017-06-18T12:06:23.068Z",
+        "is_superuser": false,
+        "username": "kellyhill",
+        "first_name": "Richard",
+        "last_name": "Hess",
+        "email": "ofrey@example.org",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-10-23T15:56:51.408Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 10,
+    "fields": {
+        "password": "Doctor lawyer source range. Water speech bring table.\nSport show trip way call. Peace fine table.",
+        "last_login": "2020-06-04T00:40:10.821Z",
+        "is_superuser": true,
+        "username": "pricelauren",
+        "first_name": "Randy",
+        "last_name": "Lee",
+        "email": "melissarussell@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T15:56:51.408Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 11,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$pHe0qLxBEz3ErrRQz51Jmt$KyAwmYeJQZfptHq0lal60FepA676LRnUQ9pWQijhBXw=",
+        "last_login": "2026-10-23T16:02:24.033Z",
+        "is_superuser": true,
+        "username": "alumnadomanana",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-10-23T16:01:43.381Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 12,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$5nteyYuCdUpIHGaP4vr05t$RuIl/JP4nP2rF0ur2Mggi3qIJznLD+bwCeijZ1SMtfc=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "nazariogonzalez",
+        "first_name": "",
+        "last_name": "",
+        "email": "patricioescamilla@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T16:12:04.785Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 13,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$vxhtUn4meELaWkEIZ2FI6M$HpmnLuJ4WPX99t0/J43FyXpiMkXU2xBOCXDe8Ko2dWA=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "che60",
+        "first_name": "",
+        "last_name": "",
+        "email": "ximenarequena@example.net",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T16:12:05.178Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 14,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$JXCmUYG73mD0PJQWyDMuCF$Z3KTkGMjH/d21zTQDMMYbHI+S0SICHrCj0VallsdL8A=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "patricio03",
+        "first_name": "",
+        "last_name": "",
+        "email": "alexlaguna@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T16:12:05.555Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 15,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$RkwQKtnWj36f1SoBafZzZK$DcOt3AvO9M8/tt2yrvzr7Xc4kKGWitT6hE+ofR7w6QE=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "hernanquerol",
+        "first_name": "",
+        "last_name": "",
+        "email": "rodenaseligio@example.org",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T16:12:05.963Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 16,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$bjZuQBW66lz4xNUzrQ48sz$DQFQMAVkCV4Z1Cf6C5s68zdEFkiGMZQxRymOYlCMoA8=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "evangelinabaena",
+        "first_name": "",
+        "last_name": "",
+        "email": "andrea45@example.net",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T16:12:06.348Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 17,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$5uZiJN0Z3nbG3cF0ktmWHi$pHkSEpoU6P/0aVbEnQshB0p/uzIRhUlodllacHyHqa8=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "lrobles",
+        "first_name": "",
+        "last_name": "",
+        "email": "reynaldoperez@example.org",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T16:12:06.730Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 18,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$tpbXVMwJi7QREvKRRXDI5C$zztr3rtCoWODz4AjJ8FjPth3jRSL3ncIxrQ6xgnBR4Q=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "lacosta",
+        "first_name": "",
+        "last_name": "",
+        "email": "ramispanfilo@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T16:12:07.156Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 19,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$KARGWPYQmOJWI6IHjzUMA6$k2wfjavq89vktaTjQE08w9Z+xyk/VIiMStcLB01Tlgw=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "rincongeraldo",
+        "first_name": "",
+        "last_name": "",
+        "email": "gvera@example.org",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T16:12:07.533Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 20,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$JcPOqElO0vQRfWpYR2elhM$USSGMv0Ckudi+o98X3/qEknE45ya0eId6ibVrroFgYM=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "rpalma",
+        "first_name": "",
+        "last_name": "",
+        "email": "hernan72@example.net",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T16:12:07.911Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 21,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$XSh4vuy7kQiZDTTsgXNPUD$nJBGe1dn/TZ+wkZEyU2ILdmC+lBbl/9yIc1wBPHIvY0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "maximinobilbao",
+        "first_name": "",
+        "last_name": "",
+        "email": "nelida91@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-10-23T16:12:08.300Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "FocoQuest",
+        "model": "especialidad"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "FocoQuest",
+        "model": "logro"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "FocoQuest",
+        "model": "obtencionlogro"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "FocoQuest",
+        "model": "perfilusuario"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "FocoQuest",
+        "model": "mascota"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+        "app_label": "FocoQuest",
+        "model": "asignatura"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+        "app_label": "FocoQuest",
+        "model": "psicologo"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+        "app_label": "FocoQuest",
+        "model": "sesionestudio"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+        "app_label": "FocoQuest",
+        "model": "registroanimo"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+        "app_label": "FocoQuest",
+        "model": "tarjeta"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "sf8m462etf2t0ngmy514pw7n5qgr5xs8",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pAOAxZcuvcMBIZBqgaS0q6Md7dNutDte-__t_BhXYpfO89-SuIiAMTpF8ZAT667SY9Q701Sq8s8Rbkn8rBd3lri1_Vo_w5K6GVbY8xkALUCR0Qm0zk7yzEFAIVoBtzIaIFtDBY1agujsYNjRYk1GCc-Xwk1N6g:1xKHiq:0-HCD3syBum8_CTpXI9ZIDNHIge-zIuPxOVWHgpe-Wc",
+        "expire_date": "2026-11-06T16:02:24.042Z"
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 1,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 1,
+        "xp": 29385,
+        "racha_actual": 31990,
+        "racha_maxima": -30664,
+        "ultimo_dia_activo": "1995-05-30",
+        "fecha_nacimiento": "1996-12-03",
+        "biografia": "Protect sport artist strategy wonder way tree sign. Kid check behavior involve check account wide.",
+        "hora_recordatorio": "06:36:24",
+        "notificaciones_push": false,
+        "acepta_tratamiento_salud": true,
+        "actualizado": "1970-09-19T02:42:20.373Z",
+        "user": 3,
+        "psicologos_favoritos": []
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 2,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 1,
+        "xp": -22596,
+        "racha_actual": -7476,
+        "racha_maxima": -25354,
+        "ultimo_dia_activo": "1993-06-22",
+        "fecha_nacimiento": "1995-03-09",
+        "biografia": "Reality provide they president special region keep. Hospital play amount pressure TV. Whom already word stop Mr role practice.\nFull over size main.",
+        "hora_recordatorio": "13:40:12",
+        "notificaciones_push": true,
+        "acepta_tratamiento_salud": true,
+        "actualizado": "1986-06-25T23:54:45.409Z",
+        "user": 8,
+        "psicologos_favoritos": []
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 3,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 1,
+        "xp": -12485,
+        "racha_actual": -29103,
+        "racha_maxima": -31501,
+        "ultimo_dia_activo": "2015-06-23",
+        "fecha_nacimiento": "2015-07-08",
+        "biografia": "Long season apply growth number ever.\nGarden past professional avoid institution. Watch wrong film bring.\nWish per other early. Yeah success stand there big. Away fact could note strong figure.",
+        "hora_recordatorio": "14:51:05",
+        "notificaciones_push": false,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "1990-01-06T13:58:08.741Z",
+        "user": 6,
+        "psicologos_favoritos": []
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 4,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 1,
+        "xp": -30352,
+        "racha_actual": -22527,
+        "racha_maxima": 3977,
+        "ultimo_dia_activo": "2004-11-01",
+        "fecha_nacimiento": "2023-09-14",
+        "biografia": "Beautiful difficult art tough order.\nBed responsibility nation. Step suddenly four there trade dog despite rule. Everybody all year couple move hour consider two.",
+        "hora_recordatorio": "21:50:35",
+        "notificaciones_push": true,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "1982-07-16T10:38:47.002Z",
+        "user": 2,
+        "psicologos_favoritos": []
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 5,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 1,
+        "xp": -13431,
+        "racha_actual": -16350,
+        "racha_maxima": 20998,
+        "ultimo_dia_activo": "1999-01-12",
+        "fecha_nacimiento": "1998-03-16",
+        "biografia": "Several participant either plan. Edge indicate house student mother. Painting soldier against brother last source.",
+        "hora_recordatorio": "13:30:44",
+        "notificaciones_push": true,
+        "acepta_tratamiento_salud": true,
+        "actualizado": "2021-03-10T12:18:21.140Z",
+        "user": 7,
+        "psicologos_favoritos": []
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 6,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 1,
+        "xp": 9595,
+        "racha_actual": -12875,
+        "racha_maxima": 4608,
+        "ultimo_dia_activo": "1970-07-01",
+        "fecha_nacimiento": "2008-06-05",
+        "biografia": "Ok into chair window need because. Month plant discuss involve. Idea court or series could lead able. Minute page wind wife catch where.",
+        "hora_recordatorio": "00:06:32",
+        "notificaciones_push": false,
+        "acepta_tratamiento_salud": true,
+        "actualizado": "1994-01-29T08:36:56.016Z",
+        "user": 5,
+        "psicologos_favoritos": []
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 7,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 1,
+        "xp": 27273,
+        "racha_actual": 4296,
+        "racha_maxima": -15869,
+        "ultimo_dia_activo": "1990-04-11",
+        "fecha_nacimiento": "2015-05-24",
+        "biografia": "Mind candidate throw woman everyone product how.\nBar important special thus under simple father. Certain gun finish weight.",
+        "hora_recordatorio": "22:43:44",
+        "notificaciones_push": true,
+        "acepta_tratamiento_salud": true,
+        "actualizado": "1992-07-01T07:21:42.002Z",
+        "user": 10,
+        "psicologos_favoritos": []
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 8,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 1,
+        "xp": 13739,
+        "racha_actual": 14592,
+        "racha_maxima": -3891,
+        "ultimo_dia_activo": "1987-11-03",
+        "fecha_nacimiento": "2004-03-20",
+        "biografia": "Now time room hospital. Indicate important time pick thought left. Sure recent already strategy role movie career. Manage rather whom hope fill nearly.",
+        "hora_recordatorio": "18:00:22",
+        "notificaciones_push": true,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2015-03-08T18:27:24.755Z",
+        "user": 9,
+        "psicologos_favoritos": []
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 9,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 1,
+        "xp": 24320,
+        "racha_actual": -28708,
+        "racha_maxima": -29399,
+        "ultimo_dia_activo": "1986-11-30",
+        "fecha_nacimiento": "2000-04-05",
+        "biografia": "Citizen person understand full wait marriage key.\nOfficial always particularly tax. Similar kid style share agree. Thus brother detail campaign apply.",
+        "hora_recordatorio": "10:41:12",
+        "notificaciones_push": false,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2000-09-08T09:16:36.810Z",
+        "user": 1,
+        "psicologos_favoritos": []
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 10,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 1,
+        "xp": -29496,
+        "racha_actual": -27134,
+        "racha_maxima": 9647,
+        "ultimo_dia_activo": "2007-12-12",
+        "fecha_nacimiento": "2016-01-31",
+        "biografia": "Cause assume land option.\nEvery citizen throw management individual. Despite trial girl magazine sell store. Source why information prevent security democratic.",
+        "hora_recordatorio": "04:54:33",
+        "notificaciones_push": false,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2025-05-12T02:50:05.297Z",
+        "user": 4,
+        "psicologos_favoritos": []
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 11,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 18,
+        "xp": 235,
+        "racha_actual": 3,
+        "racha_maxima": 8,
+        "ultimo_dia_activo": "2026-10-09",
+        "fecha_nacimiento": "1998-11-04",
+        "biografia": "Era estaban escuela tenido varias. Ni servicios visto yo jamás.\nLe d comisión.",
+        "hora_recordatorio": "09:06:01.971",
+        "notificaciones_push": true,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2026-10-23T16:12:05.167Z",
+        "user": 12,
+        "psicologos_favoritos": [
+            20
+        ]
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 12,
+    "fields": {
+        "objetivo": "Bachillerato/FP",
+        "nivel": 15,
+        "xp": 1945,
+        "racha_actual": 29,
+        "racha_maxima": 43,
+        "ultimo_dia_activo": "2026-10-17",
+        "fecha_nacimiento": "2010-10-13",
+        "biografia": "Alguien ocasión nuevos grupo. Éxito tengo todas lejos diciembre diversos escuela.",
+        "hora_recordatorio": "17:24:49.811",
+        "notificaciones_push": false,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2026-10-23T16:12:05.547Z",
+        "user": 13,
+        "psicologos_favoritos": [
+            19
+        ]
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 13,
+    "fields": {
+        "objetivo": "Opositor",
+        "nivel": 11,
+        "xp": 3606,
+        "racha_actual": 8,
+        "racha_maxima": 13,
+        "ultimo_dia_activo": "2026-10-02",
+        "fecha_nacimiento": "1995-02-15",
+        "biografia": "Premio evitar anterior tuvo final hombre. Actividades diversas he dice instituciones rey. Don existencia siquiera pero grande nunca profesional.",
+        "hora_recordatorio": "01:13:11.988",
+        "notificaciones_push": false,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2026-10-23T16:12:05.954Z",
+        "user": 14,
+        "psicologos_favoritos": [
+            13,
+            17,
+            20
+        ]
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 14,
+    "fields": {
+        "objetivo": "Bachillerato/FP",
+        "nivel": 11,
+        "xp": 135,
+        "racha_actual": 11,
+        "racha_maxima": 25,
+        "ultimo_dia_activo": "2026-09-26",
+        "fecha_nacimiento": "1991-04-10",
+        "biografia": "Minutos miguel deseo historia. Aumento gonzález actividad está. Viaje siempre demás. Período hombre rodríguez necesario ex anterior.",
+        "hora_recordatorio": "17:33:48.665",
+        "notificaciones_push": false,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2026-10-23T16:12:06.340Z",
+        "user": 15,
+        "psicologos_favoritos": [
+            13,
+            15
+        ]
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 15,
+    "fields": {
+        "objetivo": "Opositor",
+        "nivel": 2,
+        "xp": 2541,
+        "racha_actual": 0,
+        "racha_maxima": 15,
+        "ultimo_dia_activo": "2026-09-24",
+        "fecha_nacimiento": "2009-11-11",
+        "biografia": "Características meses sea. Valores méxico ahí gente otro. Nada problemas iglesia creo único propios.",
+        "hora_recordatorio": "20:29:15.228",
+        "notificaciones_push": false,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2026-10-23T16:12:06.722Z",
+        "user": 16,
+        "psicologos_favoritos": [
+            15,
+            16,
+            18
+        ]
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 16,
+    "fields": {
+        "objetivo": "Opositor",
+        "nivel": 4,
+        "xp": 4324,
+        "racha_actual": 4,
+        "racha_maxima": 20,
+        "ultimo_dia_activo": "2026-10-04",
+        "fecha_nacimiento": "2005-07-26",
+        "biografia": "Saber boca torno francisco cultural razón. Consejo encuentran madrid dan personal precio. Señaló diez mercado maría.",
+        "hora_recordatorio": "00:19:47.501",
+        "notificaciones_push": true,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2026-10-23T16:12:07.147Z",
+        "user": 17,
+        "psicologos_favoritos": [
+            13,
+            20
+        ]
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 17,
+    "fields": {
+        "objetivo": "Opositor",
+        "nivel": 15,
+        "xp": 2367,
+        "racha_actual": 17,
+        "racha_maxima": 25,
+        "ultimo_dia_activo": "2026-10-22",
+        "fecha_nacimiento": "1985-12-09",
+        "biografia": "Minutos costa trabajo te. Mesa aún tales meses profesional río.",
+        "hora_recordatorio": "17:40:21.827",
+        "notificaciones_push": true,
+        "acepta_tratamiento_salud": true,
+        "actualizado": "2026-10-23T16:12:07.525Z",
+        "user": 18,
+        "psicologos_favoritos": [
+            11
+        ]
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 18,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 12,
+        "xp": 3895,
+        "racha_actual": 26,
+        "racha_maxima": 28,
+        "ultimo_dia_activo": "2026-10-22",
+        "fecha_nacimiento": "1993-10-04",
+        "biografia": "J casa queda sus.",
+        "hora_recordatorio": "06:05:22.852",
+        "notificaciones_push": false,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2026-10-23T16:12:07.902Z",
+        "user": 19,
+        "psicologos_favoritos": [
+            16
+        ]
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 19,
+    "fields": {
+        "objetivo": "Bachillerato/FP",
+        "nivel": 18,
+        "xp": 2781,
+        "racha_actual": 23,
+        "racha_maxima": 39,
+        "ultimo_dia_activo": "2026-09-27",
+        "fecha_nacimiento": "1999-06-10",
+        "biografia": "General construcción encima paciente. Vez teoría vía estilo son padres. Psoe nombre sus figura aquel propio.",
+        "hora_recordatorio": "19:11:38.947",
+        "notificaciones_push": true,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2026-10-23T16:12:08.289Z",
+        "user": 20,
+        "psicologos_favoritos": [
+            20
+        ]
+    }
+},
+{
+    "model": "FocoQuest.perfilusuario",
+    "pk": 20,
+    "fields": {
+        "objetivo": "Universitario",
+        "nivel": 20,
+        "xp": 1595,
+        "racha_actual": 16,
+        "racha_maxima": 16,
+        "ultimo_dia_activo": "2026-10-01",
+        "fecha_nacimiento": "2000-11-27",
+        "biografia": "Contra silencio futuro producto. R operación camino luis qué segunda momento. Por particular realizar razones sigue suficiente carta.",
+        "hora_recordatorio": "08:28:01.055",
+        "notificaciones_push": false,
+        "acepta_tratamiento_salud": false,
+        "actualizado": "2026-10-23T16:12:08.672Z",
+        "user": 21,
+        "psicologos_favoritos": [
+            11,
+            12,
+            18
+        ]
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 1,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 100,
+        "color": "#FFB547",
+        "fecha_adopcion": "2026-10-09",
+        "activa": true,
+        "perfil": 5
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 2,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 100,
+        "color": "#FFB547",
+        "fecha_adopcion": "1997-01-08",
+        "activa": true,
+        "perfil": 4
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 3,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 100,
+        "color": "#FFB547",
+        "fecha_adopcion": "1971-05-22",
+        "activa": true,
+        "perfil": 6
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 4,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 100,
+        "color": "#FFB547",
+        "fecha_adopcion": "2024-07-13",
+        "activa": true,
+        "perfil": 7
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 5,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 100,
+        "color": "#FFB547",
+        "fecha_adopcion": "2006-06-29",
+        "activa": true,
+        "perfil": 2
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 6,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 100,
+        "color": "#FFB547",
+        "fecha_adopcion": "1997-08-15",
+        "activa": true,
+        "perfil": 9
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 7,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 100,
+        "color": "#FFB547",
+        "fecha_adopcion": "1983-04-04",
+        "activa": true,
+        "perfil": 1
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 8,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 100,
+        "color": "#FFB547",
+        "fecha_adopcion": "1974-02-27",
+        "activa": true,
+        "perfil": 10
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 9,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 100,
+        "color": "#FFB547",
+        "fecha_adopcion": "1970-09-19",
+        "activa": true,
+        "perfil": 3
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 10,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 100,
+        "color": "#FFB547",
+        "fecha_adopcion": "1981-05-11",
+        "activa": true,
+        "perfil": 8
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 11,
+    "fields": {
+        "etapa": "Adulta",
+        "energia": 58,
+        "color": "#0c5fdc",
+        "fecha_adopcion": "2026-10-23",
+        "activa": false,
+        "perfil": 11
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 12,
+    "fields": {
+        "etapa": "Larva",
+        "energia": 42,
+        "color": "#76c3e8",
+        "fecha_adopcion": "2026-10-23",
+        "activa": false,
+        "perfil": 12
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 13,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 59,
+        "color": "#3494bc",
+        "fecha_adopcion": "2026-10-23",
+        "activa": true,
+        "perfil": 13
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 14,
+    "fields": {
+        "etapa": "Larva",
+        "energia": 55,
+        "color": "#aec6bb",
+        "fecha_adopcion": "2026-10-23",
+        "activa": false,
+        "perfil": 14
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 15,
+    "fields": {
+        "etapa": "Huevo",
+        "energia": 16,
+        "color": "#c12515",
+        "fecha_adopcion": "2026-10-23",
+        "activa": true,
+        "perfil": 15
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 16,
+    "fields": {
+        "etapa": "Resplandeciente",
+        "energia": 67,
+        "color": "#69d1dd",
+        "fecha_adopcion": "2026-10-23",
+        "activa": false,
+        "perfil": 16
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 17,
+    "fields": {
+        "etapa": "Resplandeciente",
+        "energia": 61,
+        "color": "#689c38",
+        "fecha_adopcion": "2026-10-23",
+        "activa": true,
+        "perfil": 17
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 18,
+    "fields": {
+        "etapa": "Adulta",
+        "energia": 44,
+        "color": "#45cf64",
+        "fecha_adopcion": "2026-10-23",
+        "activa": true,
+        "perfil": 18
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 19,
+    "fields": {
+        "etapa": "Larva",
+        "energia": 1,
+        "color": "#47c56f",
+        "fecha_adopcion": "2026-10-23",
+        "activa": false,
+        "perfil": 19
+    }
+},
+{
+    "model": "FocoQuest.mascota",
+    "pk": 20,
+    "fields": {
+        "etapa": "Adulta",
+        "energia": 97,
+        "color": "#c8bd44",
+        "fecha_adopcion": "2026-10-23",
+        "activa": false,
+        "perfil": 20
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 1,
+    "fields": {
+        "nombre": "Type rest full factor protect. Born type capital stock election.",
+        "descripcion": "Science purpose suddenly east water indicate six how. Eight whatever yet sure world product. Describe contain night loss natural.",
+        "color": "#3DBE9B",
+        "fecha_examen": "2000-10-22",
+        "horas_objetivo": "0.7",
+        "activa": true,
+        "perfil": 9
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 2,
+    "fields": {
+        "nombre": "Child dark civil short worker crime sign new. Term organization power pattern.",
+        "descripcion": "Pm society any. Language want road race meet. Inside start explain good.\nHere letter choose position. Man each stage health. Language better attorney audience boy kitchen size.",
+        "color": "#3DBE9B",
+        "fecha_examen": "1979-04-19",
+        "horas_objetivo": "0.1",
+        "activa": true,
+        "perfil": 6
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 3,
+    "fields": {
+        "nombre": "Worry low other material road. Travel instead city Mrs.",
+        "descripcion": "Room father describe. Paper society small stock. You teacher together career behavior resource form so.\nSite live over than million onto. Field different among goal than involve foreign.",
+        "color": "#3DBE9B",
+        "fecha_examen": "1976-06-01",
+        "horas_objetivo": "0.2",
+        "activa": true,
+        "perfil": 4
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 4,
+    "fields": {
+        "nombre": "Tree front treat. Serve water realize fund.",
+        "descripcion": "International space popular create. Office task he money movement job present.",
+        "color": "#3DBE9B",
+        "fecha_examen": "2008-07-20",
+        "horas_objetivo": "0.3",
+        "activa": true,
+        "perfil": 8
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 5,
+    "fields": {
+        "nombre": "Sit dream house degree hard scientist enter.",
+        "descripcion": "Mrs less model administration water religious maintain. Would sense get whatever message control wear. Ball tough staff expect end ball.",
+        "color": "#3DBE9B",
+        "fecha_examen": "2015-03-31",
+        "horas_objetivo": "0.2",
+        "activa": true,
+        "perfil": 9
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 6,
+    "fields": {
+        "nombre": "Challenge order production cut accept.",
+        "descripcion": "Everything determine pattern right table. Sport lawyer conference note. Each enjoy animal ok traditional.\nDream dinner amount live. Occur force parent drug fill under firm capital. Team husband see.",
+        "color": "#3DBE9B",
+        "fecha_examen": "2012-07-08",
+        "horas_objetivo": "0.4",
+        "activa": true,
+        "perfil": 9
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 7,
+    "fields": {
+        "nombre": "Thing since yeah professional itself technology.",
+        "descripcion": "Book over apply wear process if. Itself develop position build industry old campaign.",
+        "color": "#3DBE9B",
+        "fecha_examen": "2007-08-29",
+        "horas_objetivo": "0.6",
+        "activa": true,
+        "perfil": 5
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 8,
+    "fields": {
+        "nombre": "Way also fly project lose three.",
+        "descripcion": "Box would may man. Money federal real. Throw daughter production learn figure relationship foot.\nShort free scientist its available what camera. Top bag occur poor article everybody.",
+        "color": "#3DBE9B",
+        "fecha_examen": "2006-04-03",
+        "horas_objetivo": "0.3",
+        "activa": true,
+        "perfil": 4
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 9,
+    "fields": {
+        "nombre": "Ask country draw we doctor. Draw a pretty tell if claim.",
+        "descripcion": "Nor born herself rock thousand wait. Light mind future me perform detail. Claim course hold organization deep offer town data.",
+        "color": "#3DBE9B",
+        "fecha_examen": "2002-03-24",
+        "horas_objetivo": "0.6",
+        "activa": true,
+        "perfil": 10
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 10,
+    "fields": {
+        "nombre": "Mother address have each protect forget painting. System manager wish center.",
+        "descripcion": "Serve social possible Congress seek.\nOwn nice economy gun girl effort by.\nCall explain they how then short natural. Door watch yard threat hold Mr cold. Culture director least.",
+        "color": "#3DBE9B",
+        "fecha_examen": "1985-04-09",
+        "horas_objetivo": "0.9",
+        "activa": true,
+        "perfil": 5
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 11,
+    "fields": {
+        "nombre": "Podía",
+        "descripcion": "Septiembre octubre intereses único cine fuerzas. Demasiado juego tenemos para muchas cuestión.",
+        "color": "#f68c68",
+        "fecha_examen": "2026-11-26",
+        "horas_objetivo": "143.2",
+        "activa": false,
+        "perfil": 12
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 12,
+    "fields": {
+        "nombre": "Cinco",
+        "descripcion": "Días términos música estas mitad encuentro.",
+        "color": "#931382",
+        "fecha_examen": "2026-12-11",
+        "horas_objetivo": "143.9",
+        "activa": false,
+        "perfil": 19
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 13,
+    "fields": {
+        "nombre": "Investigación",
+        "descripcion": "Sistema particular plaza unos. Todos algunos quiere aquí resultados.",
+        "color": "#cb80cc",
+        "fecha_examen": "2026-12-10",
+        "horas_objetivo": "193.8",
+        "activa": false,
+        "perfil": 11
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 14,
+    "fields": {
+        "nombre": "Entrada",
+        "descripcion": "Pasado mí luz distintas diez. Buscar hicieron aquellos estas fin m qué nuestras.",
+        "color": "#da65d6",
+        "fecha_examen": "2026-12-22",
+        "horas_objetivo": "125.7",
+        "activa": false,
+        "perfil": 15
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 15,
+    "fields": {
+        "nombre": "Suerte",
+        "descripcion": "Nuestra salida sin antonio. José respecto sur fin pues fútbol. Especie era dentro capital rey.",
+        "color": "#1a9591",
+        "fecha_examen": "2026-12-31",
+        "horas_objetivo": "100.6",
+        "activa": true,
+        "perfil": 20
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 16,
+    "fields": {
+        "nombre": "Existencia",
+        "descripcion": "Cierto distintas habría ha españoles aspectos siglo. Vuelve fuera vista días estamos sola.",
+        "color": "#a6c623",
+        "fecha_examen": "2026-11-18",
+        "horas_objetivo": "169.3",
+        "activa": true,
+        "perfil": 17
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 17,
+    "fields": {
+        "nombre": "Elementos",
+        "descripcion": "Momentos ocho función destino le. Espera poco junto. Sean mitad quienes blanca.",
+        "color": "#308a0f",
+        "fecha_examen": "2027-01-09",
+        "horas_objetivo": "179.1",
+        "activa": true,
+        "perfil": 17
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 18,
+    "fields": {
+        "nombre": "Otras",
+        "descripcion": "Toma punto volver hubiera ella lugar. Profesional cuerpo trata práctica.",
+        "color": "#c20e9d",
+        "fecha_examen": "2026-12-27",
+        "horas_objetivo": "154.5",
+        "activa": false,
+        "perfil": 14
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 19,
+    "fields": {
+        "nombre": "Eran",
+        "descripcion": "Victoria médico hombre c acuerdo fondo. Llegado libro medida internacional violencia.",
+        "color": "#5e8345",
+        "fecha_examen": "2026-12-11",
+        "horas_objetivo": "110.9",
+        "activa": false,
+        "perfil": 16
+    }
+},
+{
+    "model": "FocoQuest.asignatura",
+    "pk": 20,
+    "fields": {
+        "nombre": "Qué",
+        "descripcion": "Régimen metros allá estudio casos hay. Misma muchas s. G se s ir tipo fácil.",
+        "color": "#6b1cf9",
+        "fecha_examen": "2026-12-12",
+        "horas_objetivo": "102.1",
+        "activa": true,
+        "perfil": 18
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 1,
+    "fields": {
+        "inicio": "2026-10-23T15:56:51.409Z",
+        "fin": "1990-10-13T06:13:24.516Z",
+        "minutos_estudiados": -5290,
+        "pomodoros_completados": 3917,
+        "xp_ganada": -19642,
+        "notas": "Couple push early modern. President blue finally month bring quite heavy. Certainly opportunity bring center upon. Usually word sister us hear.",
+        "asignatura": 9
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 2,
+    "fields": {
+        "inicio": "2026-10-23T15:56:51.409Z",
+        "fin": "2002-01-26T08:05:30.774Z",
+        "minutos_estudiados": -28887,
+        "pomodoros_completados": -3670,
+        "xp_ganada": 23746,
+        "notas": "Hour investment race west talk court reduce. Protect dark coach sometimes baby. Thousand learn which seek economy.",
+        "asignatura": 6
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 3,
+    "fields": {
+        "inicio": "2026-10-23T15:56:51.409Z",
+        "fin": "1989-05-06T19:06:58.471Z",
+        "minutos_estudiados": 26976,
+        "pomodoros_completados": -16023,
+        "xp_ganada": 26127,
+        "notas": "Group age thus health. Room campaign foreign own class must TV. Should purpose in administration vote among defense.\nAuthority job Mr spend drive. Four individual appear factor game gun condition.",
+        "asignatura": 6
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 4,
+    "fields": {
+        "inicio": "2026-10-23T15:56:51.409Z",
+        "fin": "1996-09-04T07:35:08.794Z",
+        "minutos_estudiados": -27533,
+        "pomodoros_completados": -18102,
+        "xp_ganada": -9548,
+        "notas": "Range century lead enjoy. Management stock economic structure feeling bill recognize there.",
+        "asignatura": 3
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 5,
+    "fields": {
+        "inicio": "2026-10-23T15:56:51.409Z",
+        "fin": "2007-09-12T00:31:14.332Z",
+        "minutos_estudiados": -7816,
+        "pomodoros_completados": -17978,
+        "xp_ganada": 6904,
+        "notas": "Lose some at world marriage through.\nProfessor natural build later. Late weight room doctor class. Agent race impact green.",
+        "asignatura": 7
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 6,
+    "fields": {
+        "inicio": "2026-10-23T15:56:51.409Z",
+        "fin": "1999-05-08T14:45:26.285Z",
+        "minutos_estudiados": 13741,
+        "pomodoros_completados": -372,
+        "xp_ganada": -21217,
+        "notas": "Wait which seem commercial age. Value politics wife. Prove however those especially read.\nEverybody sound television east name friend. Drop fly join simply join on. Run ahead strong.",
+        "asignatura": 7
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 7,
+    "fields": {
+        "inicio": "2026-10-23T15:56:51.409Z",
+        "fin": "2000-04-07T17:24:49.560Z",
+        "minutos_estudiados": 16834,
+        "pomodoros_completados": 30438,
+        "xp_ganada": -26095,
+        "notas": "Process last rock. Carry group involve it hotel movement. Language tonight clear easy. Go right he out fight arm economy.",
+        "asignatura": 5
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 8,
+    "fields": {
+        "inicio": "2026-10-23T15:56:51.409Z",
+        "fin": "2008-02-13T07:33:59.952Z",
+        "minutos_estudiados": 6319,
+        "pomodoros_completados": -5436,
+        "xp_ganada": -4831,
+        "notas": "Difficult east order those. Capital trial attorney kid first sell section.\nRelationship less baby along condition your plan. Card four home response. Animal ten nor employee talk film.",
+        "asignatura": 2
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 9,
+    "fields": {
+        "inicio": "2026-10-23T15:56:51.409Z",
+        "fin": "2004-03-25T21:56:07.652Z",
+        "minutos_estudiados": -17357,
+        "pomodoros_completados": 12623,
+        "xp_ganada": 3082,
+        "notas": "Beautiful catch commercial president understand. Turn week national ask thus. Find law stage note watch whether trip. Authority anything piece second very war race.",
+        "asignatura": 5
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 10,
+    "fields": {
+        "inicio": "2026-10-23T15:56:51.409Z",
+        "fin": "1999-07-09T09:05:29.940Z",
+        "minutos_estudiados": 23971,
+        "pomodoros_completados": 5498,
+        "xp_ganada": 16536,
+        "notas": "Though others offer exist daughter president career. Television wrong third international food.",
+        "asignatura": 10
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 11,
+    "fields": {
+        "inicio": "2026-10-22T01:10:22.324Z",
+        "fin": "2026-10-22T03:50:22.324Z",
+        "minutos_estudiados": 160,
+        "pomodoros_completados": 6,
+        "xp_ganada": 320,
+        "notas": "Pie siguiente metros ninguna relación.",
+        "asignatura": 12
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 12,
+    "fields": {
+        "inicio": "2026-10-14T00:45:37.833Z",
+        "fin": "2026-10-14T03:26:37.833Z",
+        "minutos_estudiados": 161,
+        "pomodoros_completados": 6,
+        "xp_ganada": 322,
+        "notas": "Jorge amigos quién valor alrededor.",
+        "asignatura": 11
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 13,
+    "fields": {
+        "inicio": "2026-10-05T03:59:29.990Z",
+        "fin": "2026-10-05T04:33:29.990Z",
+        "minutos_estudiados": 34,
+        "pomodoros_completados": 1,
+        "xp_ganada": 68,
+        "notas": "Lenguaje le libre muerte septiembre otras.",
+        "asignatura": 20
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 14,
+    "fields": {
+        "inicio": "2026-09-26T15:25:46.930Z",
+        "fin": "2026-09-26T18:43:46.930Z",
+        "minutos_estudiados": 198,
+        "pomodoros_completados": 7,
+        "xp_ganada": 396,
+        "notas": "Pregunta humano francisco española actividad.",
+        "asignatura": 14
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 15,
+    "fields": {
+        "inicio": "2026-10-16T16:20:58.747Z",
+        "fin": "2026-10-16T19:02:58.747Z",
+        "minutos_estudiados": 162,
+        "pomodoros_completados": 6,
+        "xp_ganada": 324,
+        "notas": "Siete pedro entre real imagen.",
+        "asignatura": 18
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 16,
+    "fields": {
+        "inicio": "2026-10-19T08:41:28.750Z",
+        "fin": "2026-10-19T11:02:28.750Z",
+        "minutos_estudiados": 141,
+        "pomodoros_completados": 5,
+        "xp_ganada": 282,
+        "notas": "Quedó bastante hechos j ex niño términos.",
+        "asignatura": 19
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 17,
+    "fields": {
+        "inicio": "2026-10-04T00:00:41.867Z",
+        "fin": "2026-10-04T03:56:41.867Z",
+        "minutos_estudiados": 236,
+        "pomodoros_completados": 9,
+        "xp_ganada": 472,
+        "notas": "Real haciendo nuestro.",
+        "asignatura": 15
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 18,
+    "fields": {
+        "inicio": "2026-10-19T22:48:53.195Z",
+        "fin": "2026-10-20T01:16:53.195Z",
+        "minutos_estudiados": 148,
+        "pomodoros_completados": 5,
+        "xp_ganada": 296,
+        "notas": "Base buena manos cama méxico realidad efectos.",
+        "asignatura": 12
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 19,
+    "fields": {
+        "inicio": "2026-10-03T13:13:11.384Z",
+        "fin": "2026-10-03T13:50:11.384Z",
+        "minutos_estudiados": 37,
+        "pomodoros_completados": 1,
+        "xp_ganada": 74,
+        "notas": "Sé puerta revolución donde hombres reforma aquellos.",
+        "asignatura": 20
+    }
+},
+{
+    "model": "FocoQuest.sesionestudio",
+    "pk": 20,
+    "fields": {
+        "inicio": "2026-10-12T11:45:43.665Z",
+        "fin": "2026-10-12T13:27:43.665Z",
+        "minutos_estudiados": 102,
+        "pomodoros_completados": 4,
+        "xp_ganada": 204,
+        "notas": "Muchas militares allí muy.",
+        "asignatura": 14
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 1,
+    "fields": {
+        "estado": "Agobiado",
+        "nivel_estres": 5,
+        "horas_sueno": "0.3",
+        "comentario": "Score box social travel. Out happy official future onto big.\nOk police lay number bed. Game billion lead over board onto list.\nOld today here degree measure. On agent within care term than.",
+        "creado": "1979-10-06T00:11:59.417Z",
+        "sesion": 3
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 2,
+    "fields": {
+        "estado": "Exhausto",
+        "nivel_estres": 5,
+        "horas_sueno": "0.0",
+        "comentario": "Soldier with east hit. Skill play local receive beautiful feel land.\nEducation girl section right. How already tend with bar many. Should mention artist financial stop sense.",
+        "creado": "2010-10-27T01:52:21.462Z",
+        "sesion": 1
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 3,
+    "fields": {
+        "estado": "Motivado",
+        "nivel_estres": 5,
+        "horas_sueno": "0.5",
+        "comentario": "Us live house work successful Mr.\nAffect night lot end something area mean. Trial food radio understand hold bring professor. Reason or young hold prepare build.",
+        "creado": "2019-11-21T00:10:05.487Z",
+        "sesion": 7
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 4,
+    "fields": {
+        "estado": "Motivado",
+        "nivel_estres": 5,
+        "horas_sueno": "0.4",
+        "comentario": "Improve discuss describe too relate hit. Growth network drop can.\nMethod give try machine. Manage skin science cold store environmental situation. These very worry prevent second.",
+        "creado": "2008-11-19T14:02:57.476Z",
+        "sesion": 2
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 5,
+    "fields": {
+        "estado": "Agobiado",
+        "nivel_estres": 5,
+        "horas_sueno": "0.1",
+        "comentario": "Government side nice. Half huge arm leave meeting heavy. Move conference radio prepare.\nStar land director arm apply structure thought.",
+        "creado": "2007-02-18T19:45:21.778Z",
+        "sesion": 10
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 6,
+    "fields": {
+        "estado": "Motivado",
+        "nivel_estres": 5,
+        "horas_sueno": "0.6",
+        "comentario": "The news particular. Safe skill notice just wait cause. Summer together by nation accept.\nMagazine far standard easy claim none. Per PM direction general product lose board lead.",
+        "creado": "1972-08-06T07:39:44.582Z",
+        "sesion": 6
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 7,
+    "fields": {
+        "estado": "Agobiado",
+        "nivel_estres": 5,
+        "horas_sueno": "0.1",
+        "comentario": "Buy almost political themselves. Popular everybody man power common most. Nearly computer culture suffer yourself.",
+        "creado": "2016-11-22T00:17:52.544Z",
+        "sesion": 8
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 8,
+    "fields": {
+        "estado": "Exhausto",
+        "nivel_estres": 5,
+        "horas_sueno": "0.2",
+        "comentario": "Nearly same close. Assume American night industry anyone want. Experience with great stock remember area sign.\nGame challenge song without participant. List at add young.",
+        "creado": "2015-10-06T22:31:15.720Z",
+        "sesion": 5
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 9,
+    "fields": {
+        "estado": "Agobiado",
+        "nivel_estres": 5,
+        "horas_sueno": "0.6",
+        "comentario": "Sense stuff watch save year poor design surface. Goal state sign middle.\nRequire require arrive fast name. Ahead car support way then actually let. Group reality seek.",
+        "creado": "1990-01-23T01:56:00.590Z",
+        "sesion": 4
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 10,
+    "fields": {
+        "estado": "Motivado",
+        "nivel_estres": 5,
+        "horas_sueno": "0.5",
+        "comentario": "Particularly none myself growth although. Strategy it age teach research PM. Catch around prevent particularly improve focus thought future.",
+        "creado": "2012-08-03T01:56:45.911Z",
+        "sesion": 9
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 11,
+    "fields": {
+        "estado": "Agobiado",
+        "nivel_estres": 5,
+        "horas_sueno": "8.6",
+        "comentario": "Madrid solo mediante humana.",
+        "creado": "2026-10-23T16:12:09.249Z",
+        "sesion": 11
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 12,
+    "fields": {
+        "estado": "Motivado",
+        "nivel_estres": 10,
+        "horas_sueno": "5.3",
+        "comentario": "Serie algo dice humana.",
+        "creado": "2026-10-23T16:12:09.257Z",
+        "sesion": 12
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 13,
+    "fields": {
+        "estado": "Exhausto",
+        "nivel_estres": 1,
+        "horas_sueno": "8.0",
+        "comentario": "Silencio día época siempre máximo señaló.",
+        "creado": "2026-10-23T16:12:09.265Z",
+        "sesion": 13
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 14,
+    "fields": {
+        "estado": "Exhausto",
+        "nivel_estres": 4,
+        "horas_sueno": "6.7",
+        "comentario": "Hija calidad industria este semanas produce.",
+        "creado": "2026-10-23T16:12:09.273Z",
+        "sesion": 14
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 15,
+    "fields": {
+        "estado": "Motivado",
+        "nivel_estres": 5,
+        "horas_sueno": "7.0",
+        "comentario": "Millones consumo natural sol pueden realidad muerto intereses.",
+        "creado": "2026-10-23T16:12:09.281Z",
+        "sesion": 15
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 16,
+    "fields": {
+        "estado": "Exhausto",
+        "nivel_estres": 3,
+        "horas_sueno": "7.8",
+        "comentario": "Así costa mayo cuando hay aquel fácil.",
+        "creado": "2026-10-23T16:12:09.289Z",
+        "sesion": 16
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 17,
+    "fields": {
+        "estado": "Tranquilo",
+        "nivel_estres": 8,
+        "horas_sueno": "5.6",
+        "comentario": "Ni cargo único asimismo junto sin secretario.",
+        "creado": "2026-10-23T16:12:09.297Z",
+        "sesion": 17
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 18,
+    "fields": {
+        "estado": "Agobiado",
+        "nivel_estres": 5,
+        "horas_sueno": "4.5",
+        "comentario": "Semanas nivel términos comunicación a.",
+        "creado": "2026-10-23T16:12:09.305Z",
+        "sesion": 18
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 19,
+    "fields": {
+        "estado": "Agobiado",
+        "nivel_estres": 10,
+        "horas_sueno": "7.8",
+        "comentario": "Pesar modelo través trabajadores chile última.",
+        "creado": "2026-10-23T16:12:09.313Z",
+        "sesion": 19
+    }
+},
+{
+    "model": "FocoQuest.registroanimo",
+    "pk": 20,
+    "fields": {
+        "estado": "Agobiado",
+        "nivel_estres": 3,
+        "horas_sueno": "5.2",
+        "comentario": "Internacional amigos dios cama rey allá.",
+        "creado": "2026-10-23T16:12:09.321Z",
+        "sesion": 20
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 1,
+    "fields": {
+        "anverso": "Instead decide leave improve on music class agent. Evening type your nature Congress. Stop people argue ball. South sometimes score to suggest there hear.",
+        "reverso": "Discover others only vote gun morning. Low federal husband explain somebody buy. Onto front interview at page continue TV.",
+        "caja": 1,
+        "facilidad": 2.5,
+        "intervalo_dias": 1,
+        "proximo_repaso": "2026-10-23",
+        "creada": "2022-04-21T12:38:57.409Z",
+        "asignatura": 1
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 2,
+    "fields": {
+        "anverso": "Decision by apply child study establish. Rather spring Congress.\nOf college education control every its. Under common war mother positive mention safe hold.",
+        "reverso": "Agent include buy professor probably appear. Four feeling them really play well main.\nReligious since fall will. Great anyone break food no. Happy easy seven need.",
+        "caja": 1,
+        "facilidad": 2.5,
+        "intervalo_dias": 1,
+        "proximo_repaso": "2026-10-23",
+        "creada": "1976-10-17T22:40:18.170Z",
+        "asignatura": 9
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 3,
+    "fields": {
+        "anverso": "Training major offer Mrs strong. Night really station sort. Growth recently how that. Our deep of bank owner marriage.\nPopular pass improve change pick if might move.",
+        "reverso": "Age news air notice. He picture method probably nor similar lose. Beyond long remain apply.",
+        "caja": 1,
+        "facilidad": 2.5,
+        "intervalo_dias": 1,
+        "proximo_repaso": "2026-10-23",
+        "creada": "2005-08-27T12:48:20.530Z",
+        "asignatura": 8
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 4,
+    "fields": {
+        "anverso": "Central million member but finish. Middle police these alone.\nOwn security low me. Exist carry charge statement scene. Police other alone and quality size.",
+        "reverso": "Who specific wind PM deep yourself save. Night keep notice follow alone mean.\nDecision not discussion wind class. Look theory page where plant world itself.",
+        "caja": 1,
+        "facilidad": 2.5,
+        "intervalo_dias": 1,
+        "proximo_repaso": "2026-10-23",
+        "creada": "2010-01-17T20:54:28.026Z",
+        "asignatura": 2
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 5,
+    "fields": {
+        "anverso": "Among require party. If seven drug teach coach. They memory open four work shoulder eye.\nTo mention special create now continue share. Million forget man. Bar life worker popular thousand.",
+        "reverso": "Force cause serve person they industry help former. Ball they let admit wait house fear.",
+        "caja": 1,
+        "facilidad": 2.5,
+        "intervalo_dias": 1,
+        "proximo_repaso": "2026-10-23",
+        "creada": "1990-01-02T14:14:33.026Z",
+        "asignatura": 2
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 6,
+    "fields": {
+        "anverso": "This source beat respond skin now. Under physical traditional simple certain hope. Remember blood animal do would into middle.",
+        "reverso": "Child ability assume box. Herself into nature majority. Word force car ago style. Country turn production phone teach hit.\nState short into Congress oil. Other nearly until. Half artist miss.",
+        "caja": 1,
+        "facilidad": 2.5,
+        "intervalo_dias": 1,
+        "proximo_repaso": "2026-10-23",
+        "creada": "1974-03-07T09:54:52.367Z",
+        "asignatura": 4
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 7,
+    "fields": {
+        "anverso": "Discussion magazine set enter under. They area laugh cultural increase many.",
+        "reverso": "Involve debate yard against trial standard produce TV. Wife field yet program indicate. Course another stand theory song apply. Three control or.",
+        "caja": 1,
+        "facilidad": 2.5,
+        "intervalo_dias": 1,
+        "proximo_repaso": "2026-10-23",
+        "creada": "1990-08-09T03:33:15.008Z",
+        "asignatura": 6
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 8,
+    "fields": {
+        "anverso": "Record power measure consider time. But car interest side religious institution owner.\nCity may purpose big whose. Light class first thus window western.",
+        "reverso": "Good maintain successful. Born five travel. Point executive operation out.",
+        "caja": 1,
+        "facilidad": 2.5,
+        "intervalo_dias": 1,
+        "proximo_repaso": "2026-10-23",
+        "creada": "1995-01-10T02:28:09.241Z",
+        "asignatura": 2
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 9,
+    "fields": {
+        "anverso": "Push run floor whose decade himself letter.\nDegree easy religious analysis watch certainly. Cultural strategy main. But nor nature ago state.",
+        "reverso": "Smile receive through road far.\nTurn include star by. Bring bad minute general budget task idea.",
+        "caja": 1,
+        "facilidad": 2.5,
+        "intervalo_dias": 1,
+        "proximo_repaso": "2026-10-23",
+        "creada": "1990-11-21T06:24:42.121Z",
+        "asignatura": 1
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 10,
+    "fields": {
+        "anverso": "Somebody for fear left rate candidate still. Movement mention site go wonder day trip. Discover again environmental fine.",
+        "reverso": "Project gas something rich understand get everything. Paper own level enter red citizen.\nLet hundred single measure time great another. Which color dark investment both between represent.",
+        "caja": 1,
+        "facilidad": 2.5,
+        "intervalo_dias": 1,
+        "proximo_repaso": "2026-10-23",
+        "creada": "2009-10-24T05:44:03.056Z",
+        "asignatura": 10
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 11,
+    "fields": {
+        "anverso": "Izquierda sociedad congreso música?",
+        "reverso": "Tú justicia deben tenían.",
+        "caja": 5,
+        "facilidad": 1.86,
+        "intervalo_dias": 4,
+        "proximo_repaso": "2026-11-07",
+        "creada": "2026-10-23T16:12:09.329Z",
+        "asignatura": 20
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 12,
+    "fields": {
+        "anverso": "Fue cambio sociedad clase destino?",
+        "reverso": "Si cama pequeño entrada llama muchos prensa. Consumo puedo varios aquellas tal flores.",
+        "caja": 2,
+        "facilidad": 1.46,
+        "intervalo_dias": 29,
+        "proximo_repaso": "2026-11-18",
+        "creada": "2026-10-23T16:12:09.338Z",
+        "asignatura": 17
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 13,
+    "fields": {
+        "anverso": "Partes tú saber obras mil esas?",
+        "reverso": "Cuba cierto miembros todo.\nLlamado atrás tarde junto. Poner aire instituciones efectos u países.",
+        "caja": 1,
+        "facilidad": 2.4,
+        "intervalo_dias": 3,
+        "proximo_repaso": "2026-11-15",
+        "creada": "2026-10-23T16:12:09.346Z",
+        "asignatura": 13
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 14,
+    "fields": {
+        "anverso": "Sobre dinero supuesto nadie?",
+        "reverso": "República única datos hablar momento puso. Hija final artículo sino.",
+        "caja": 2,
+        "facilidad": 1.47,
+        "intervalo_dias": 21,
+        "proximo_repaso": "2026-11-14",
+        "creada": "2026-10-23T16:12:09.355Z",
+        "asignatura": 19
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 15,
+    "fields": {
+        "anverso": "Importante civil hablar juego acto nuestras?",
+        "reverso": "Ciencia uso siete las intereses. Mal tratamiento segunda manuel junto torno.",
+        "caja": 4,
+        "facilidad": 1.36,
+        "intervalo_dias": 8,
+        "proximo_repaso": "2026-11-07",
+        "creada": "2026-10-23T16:12:09.363Z",
+        "asignatura": 15
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 16,
+    "fields": {
+        "anverso": "Todos cultura ocasiones semana serán obstante haber?",
+        "reverso": "Días yo texto. Medidas pudo marco alguien paz historia sur. Varias todo espacio voz.",
+        "caja": 2,
+        "facilidad": 2.48,
+        "intervalo_dias": 25,
+        "proximo_repaso": "2026-11-01",
+        "creada": "2026-10-23T16:12:09.374Z",
+        "asignatura": 19
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 17,
+    "fields": {
+        "anverso": "Hablar quiero están director?",
+        "reverso": "Dicho sido pensar van zona me oposición. Relaciones luego deja natural obras acto un música.",
+        "caja": 2,
+        "facilidad": 2.25,
+        "intervalo_dias": 15,
+        "proximo_repaso": "2026-11-09",
+        "creada": "2026-10-23T16:12:09.383Z",
+        "asignatura": 15
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 18,
+    "fields": {
+        "anverso": "Razón sueño valores?",
+        "reverso": "Política juicio ir m modelo segundo sectores. Tiempos actitud mañana él toda largo.",
+        "caja": 1,
+        "facilidad": 2.8,
+        "intervalo_dias": 26,
+        "proximo_repaso": "2026-11-05",
+        "creada": "2026-10-23T16:12:09.392Z",
+        "asignatura": 15
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 19,
+    "fields": {
+        "anverso": "Tomar contra pero peso nacional manuel?",
+        "reverso": "Duda poder poco viene. Vuelve violencia contra político sangre semana propio.",
+        "caja": 1,
+        "facilidad": 1.6,
+        "intervalo_dias": 6,
+        "proximo_repaso": "2026-11-10",
+        "creada": "2026-10-23T16:12:09.400Z",
+        "asignatura": 17
+    }
+},
+{
+    "model": "FocoQuest.tarjeta",
+    "pk": 20,
+    "fields": {
+        "anverso": "Objeto dado soy estilo cabeza hermano?",
+        "reverso": "Naturaleza puede mayoría empresas. Obras estaba ciudad plan entre.",
+        "caja": 2,
+        "facilidad": 1.76,
+        "intervalo_dias": 5,
+        "proximo_repaso": "2026-11-13",
+        "creada": "2026-10-23T16:12:09.409Z",
+        "asignatura": 17
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 1,
+    "fields": {
+        "nombre": "Discussion recognize recent. Attention throw reach him Mrs.",
+        "descripcion": "Since strategy fast among law building he inside. Miss someone quality manager spend.\nSeek upon attack knowledge. Actually still increase high high. Page chance claim.",
+        "orden": 7948,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 2,
+    "fields": {
+        "nombre": "Like light themselves order experience production add.",
+        "descripcion": "Fund very everything it. Forward material image actually threat story leader. Recognize care federal parent bad.",
+        "orden": -30538,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 3,
+    "fields": {
+        "nombre": "Per strategy buy just account raise authority then.",
+        "descripcion": "Over each media behavior town view paper. Whole hot painting field. Hundred recognize situation old sometimes. Improve with me.\nNature nation machine old. New likely care daughter.",
+        "orden": -522,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 4,
+    "fields": {
+        "nombre": "Wife answer poor fall strong music citizen.",
+        "descripcion": "Low me control think he door. Recently movie wonder. Happy main sing responsibility report consumer.",
+        "orden": -17770,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 5,
+    "fields": {
+        "nombre": "Compare wear than challenge her.",
+        "descripcion": "Audience feeling commercial stay specific today sit. Society activity approach report.",
+        "orden": 266,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 6,
+    "fields": {
+        "nombre": "Every add state fund director. Article meet culture town.",
+        "descripcion": "Order hair raise represent deep special edge. Nothing west less one sea there training. Require gun down herself.\nExpert consumer why team send.",
+        "orden": 27634,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 7,
+    "fields": {
+        "nombre": "Test everybody partner down authority.",
+        "descripcion": "Man result place investment candidate bed. Help someone future lose sit against.",
+        "orden": -14173,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 8,
+    "fields": {
+        "nombre": "Even head once well chair bring option woman.",
+        "descripcion": "Agent area yes pay reality moment. Black or beat again behavior describe.\nBaby end better mission pass. War by door onto certain huge with. Onto figure yourself structure again happen.",
+        "orden": 23083,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 9,
+    "fields": {
+        "nombre": "Others heart television while. Animal high address.",
+        "descripcion": "Instead conference education all home her. Until treat how goal federal.\nFact everyone member woman prove.",
+        "orden": -16124,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 10,
+    "fields": {
+        "nombre": "Responsibility everyone single building resource help.",
+        "descripcion": "Commercial our production build great. Worry that let enough during. Why he him six. Fly station teach walk information stay.\nImagine toward official. Environment science laugh even can six plan.",
+        "orden": -28814,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 11,
+    "fields": {
+        "nombre": "And produce sing nature heart. Opportunity grow door hit.",
+        "descripcion": "Small always such animal laugh he rock let. Property now economic our get. Matter analysis character condition.",
+        "orden": -22716,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 12,
+    "fields": {
+        "nombre": "Use lawyer start trouble they animal. Price himself cell.",
+        "descripcion": "Three trip economic brother fly. World positive study protect.\nHalf toward include side action man administration moment. Ok cultural live network American.",
+        "orden": -12559,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 13,
+    "fields": {
+        "nombre": "Move fast central and partner action seek.",
+        "descripcion": "Fly seek tough while old. Person military key appear set. Each clear in deal general stay these.\nRich finish probably. Everybody attorney report.",
+        "orden": -25757,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 14,
+    "fields": {
+        "nombre": "Economic human white feel each skin.",
+        "descripcion": "Message method remember your eat east. Way responsibility often give another key inside.",
+        "orden": -796,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 15,
+    "fields": {
+        "nombre": "Fine southern adult discuss land woman.",
+        "descripcion": "Discover young avoid staff edge next. Try process wide able raise.",
+        "orden": -31516,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 16,
+    "fields": {
+        "nombre": "Above pressure ever simply. Hold challenge feeling article.",
+        "descripcion": "Peace agree defense. General score individual standard wife bring.\nHome foot not practice sell evidence. Action region hair central. Expect late single else hand themselves stand.",
+        "orden": 491,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 17,
+    "fields": {
+        "nombre": "Already by suffer language minute win nothing.",
+        "descripcion": "Law doctor power within lay let. Return issue sport.\nMust dog that sort option. Score above out new.",
+        "orden": -11148,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 18,
+    "fields": {
+        "nombre": "Responsibility above get management business.",
+        "descripcion": "However late meeting forward talk get. Boy major season.\nAmount somebody manager station action hold. Center play within figure Congress table capital.",
+        "orden": -4818,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 19,
+    "fields": {
+        "nombre": "Season buy hold if.",
+        "descripcion": "More there article thus should only. Although right serious support.\nHowever agree start according send about. Available a property he. Positive culture tough mission reduce.",
+        "orden": 20794,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 20,
+    "fields": {
+        "nombre": "Admit green sell use ability to region speech.",
+        "descripcion": "Structure then specific president. Painting year report model lay action. Whole job dark.",
+        "orden": 16849,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 21,
+    "fields": {
+        "nombre": "Mejor",
+        "descripcion": "Debe porque primer buscar parecía palabras. Antes unidos única del grupos parís.",
+        "orden": 3,
+        "activa": false
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 22,
+    "fields": {
+        "nombre": "Rey",
+        "descripcion": "Programas país resultado habían habla instituciones estos. Jefe tuvo silencio pasa.",
+        "orden": 3,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 23,
+    "fields": {
+        "nombre": "Mismo",
+        "descripcion": "Hijo creación revolución aunque sistemas. Hora médico pudo suelo. Podría nuevas palabras presente.",
+        "orden": 9,
+        "activa": false
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 24,
+    "fields": {
+        "nombre": "Nunca",
+        "descripcion": "Oposición partir principios tan. Alguien mejores hechos nosotros local he.",
+        "orden": 1,
+        "activa": false
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 25,
+    "fields": {
+        "nombre": "Por",
+        "descripcion": "Años puesto carácter largo mejor vivir. Voz a ellos resto conjunto ocho bueno.",
+        "orden": 9,
+        "activa": false
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 26,
+    "fields": {
+        "nombre": "Resto",
+        "descripcion": "Hubo dado padre largo reforma méxico papel. Técnica encontrar tampoco explicó sola juan sólo proyectos.",
+        "orden": 2,
+        "activa": false
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 27,
+    "fields": {
+        "nombre": "Quiere",
+        "descripcion": "Necesario mil marco junto la ideas real. Muy mayo antes. Sabía claro ahora.",
+        "orden": 2,
+        "activa": false
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 28,
+    "fields": {
+        "nombre": "Pone",
+        "descripcion": "Sociedad juicio tener josé derechos ahora. Afirmó haya busca estar segunda curso demasiado.",
+        "orden": 2,
+        "activa": false
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 29,
+    "fields": {
+        "nombre": "País",
+        "descripcion": "Trabajar medida mayo banco política llegado muerte. Habría conjunto lejos fueron.",
+        "orden": 3,
+        "activa": false
+    }
+},
+{
+    "model": "FocoQuest.especialidad",
+    "pk": 30,
+    "fields": {
+        "nombre": "Cultural",
+        "descripcion": "Partes ambos otros objeto consecuencia teoría.\nFuentes iglesia mientras cada luz suelo.",
+        "orden": 8,
+        "activa": true
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 1,
+    "fields": {
+        "nombre_completo": "Scientist thank decide social. Site camera discover phone car Mr along.",
+        "numero_colegiado": "Plant American.",
+        "descripcion": "Affect fine happy miss score sing yes. Half long enter whom continue language bar.",
+        "email": "usanchez@example.net",
+        "telefono": "Marriage modern.",
+        "web": "http://www.atkinson.com/main/list/wp-contentprivacy.asp",
+        "modalidad": "Online",
+        "precio_sesion": "0.05",
+        "fecha_alta": "2021-05-14",
+        "user": 8,
+        "especialidades": [
+            13
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 2,
+    "fields": {
+        "nombre_completo": "Ready everything population also party investment.\nStore tell onto kind. Cause teacher affect range democratic.",
+        "numero_colegiado": "Poor open fund.",
+        "descripcion": "Staff evidence people ball meet prepare stand. Marriage something friend under condition adult effort. Economic fly now international relate available practice result.",
+        "email": "oturner@example.org",
+        "telefono": "Information.",
+        "web": "http://www.miller.info/blogabout.php",
+        "modalidad": "Online",
+        "precio_sesion": "0.75",
+        "fecha_alta": "2002-07-23",
+        "user": 9,
+        "especialidades": [
+            13,
+            19
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 3,
+    "fields": {
+        "nombre_completo": "Guess available according matter paper agent yes.",
+        "numero_colegiado": "Explain born.",
+        "descripcion": "But worker tough sure sell full describe. Water rise player.\nLead stage less with less. Form marriage notice somebody. Water conference live life from maybe.",
+        "email": "annecole@example.net",
+        "telefono": "Power skill.",
+        "web": "http://holden.com/posts/wp-contenthomepage.jsp",
+        "modalidad": "Online",
+        "precio_sesion": "0.85",
+        "fecha_alta": "1990-06-22",
+        "user": 4,
+        "especialidades": [
+            19
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 4,
+    "fields": {
+        "nombre_completo": "Act team cost exist possible perform. Suddenly pressure from. Recognize under group religious.",
+        "numero_colegiado": "Tend himself.",
+        "descripcion": "Speak reach oil crime. South keep deep show pattern. Better material outside direction care perhaps student.",
+        "email": "holly03@example.org",
+        "telefono": "Much despite.",
+        "web": "https://ball.com/explorefaq.htm",
+        "modalidad": "Online",
+        "precio_sesion": "0.81",
+        "fecha_alta": "1982-05-03",
+        "user": 1,
+        "especialidades": [
+            16
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 5,
+    "fields": {
+        "nombre_completo": "Student store action answer gas difficult once. Study dog key girl girl.",
+        "numero_colegiado": "Half rate dinner.",
+        "descripcion": "Tv medical huge specific understand around government. Across offer however kind. Behavior whatever many admit green remain and.",
+        "email": "johnrios@example.net",
+        "telefono": "Certainly.",
+        "web": "https://www.wilson.biz/appprivacy.php",
+        "modalidad": "Online",
+        "precio_sesion": "0.16",
+        "fecha_alta": "2020-02-21",
+        "user": 5,
+        "especialidades": [
+            16,
+            17
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 6,
+    "fields": {
+        "nombre_completo": "Tend two require apply shoulder.",
+        "numero_colegiado": "Continue small.",
+        "descripcion": "Prove during ok run. Matter address decide authority personal guy already within. Call school level forget. Plant class suffer clearly nearly group.",
+        "email": "meyersmatthew@example.org",
+        "telefono": "Country degree.",
+        "web": "https://www.thompson.com/tags/blog/categoriesauthor.htm",
+        "modalidad": "Online",
+        "precio_sesion": "0.41",
+        "fecha_alta": "1981-07-26",
+        "user": 7,
+        "especialidades": [
+            13
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 7,
+    "fields": {
+        "nombre_completo": "Remain how concern policy treat.",
+        "numero_colegiado": "Per suffer only.",
+        "descripcion": "Understand focus section section put. What cut reality position network institution.\nFact whose meet ball too special herself. She former customer design field anything.",
+        "email": "stacybennett@example.net",
+        "telefono": "Artist measure.",
+        "web": "http://www.brady.com/main/postsauthor.html",
+        "modalidad": "Online",
+        "precio_sesion": "0.86",
+        "fecha_alta": "2017-08-05",
+        "user": 2,
+        "especialidades": [
+            12,
+            20
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 8,
+    "fields": {
+        "nombre_completo": "Toward often serve person. Improve politics plan development population suggest. Best low sort main tonight.",
+        "numero_colegiado": "Media final hear.",
+        "descripcion": "Watch per director shake. Rule red voice during. Tax audience our poor. Second quickly risk rich forget.",
+        "email": "irogers@example.com",
+        "telefono": "Present on.",
+        "web": "http://www.ray-parks.biz/blog/wp-contentabout.php",
+        "modalidad": "Online",
+        "precio_sesion": "0.83",
+        "fecha_alta": "1994-03-30",
+        "user": 10,
+        "especialidades": [
+            12,
+            13
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 9,
+    "fields": {
+        "nombre_completo": "Visit represent to technology. Believe detail only only.",
+        "numero_colegiado": "Middle particularly.",
+        "descripcion": "Interesting establish politics. Various avoid free could beautiful. Election speech various clear example usually. Than trip someone act might.",
+        "email": "gbailey@example.org",
+        "telefono": "Important dog.",
+        "web": "http://www.hughes.biz/list/tags/listindex.html",
+        "modalidad": "Online",
+        "precio_sesion": "0.49",
+        "fecha_alta": "1984-03-07",
+        "user": 3,
+        "especialidades": [
+            13,
+            20
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 10,
+    "fields": {
+        "nombre_completo": "Knowledge once suffer everyone since after explain. Painting myself require south. Head camera human police hit.",
+        "numero_colegiado": "Month issue.",
+        "descripcion": "Language exist player these. Represent staff believe.\nElse mean imagine check low. And network staff happy. Nor main well state according.",
+        "email": "fthompson@example.org",
+        "telefono": "Street charge.",
+        "web": "https://gentry.com/apphome.asp",
+        "modalidad": "Online",
+        "precio_sesion": "0.57",
+        "fecha_alta": "2010-06-27",
+        "user": 6,
+        "especialidades": [
+            11,
+            14
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 11,
+    "fields": {
+        "nombre_completo": "Fortunato Cuevas Piña",
+        "numero_colegiado": "M-39365",
+        "descripcion": "Hablar año argentina revolución nuevas consejo lenguaje. Social r su sol hacía persona tú.",
+        "email": "liliana11@example.org",
+        "telefono": "+34949458963",
+        "web": "http://comercial.es/",
+        "modalidad": "Presencial",
+        "precio_sesion": "45.16",
+        "fecha_alta": "2026-10-23",
+        "user": null,
+        "especialidades": [
+            27,
+            29,
+            30
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 12,
+    "fields": {
+        "nombre_completo": "Margarita Benavent",
+        "numero_colegiado": "M-77928",
+        "descripcion": "Tratamiento dan imagen hemos todas. Suelo hacia capacidad caso pasa. Curso una constitución casos a.\nHospital éxito hacen. Creación objeto hasta estudio través. Jefe medios empresa zona.",
+        "email": "felix63@example.com",
+        "telefono": "+34944 412 846",
+        "web": "https://www.morales.com/",
+        "modalidad": "Presencial",
+        "precio_sesion": "72.38",
+        "fecha_alta": "2026-10-23",
+        "user": null,
+        "especialidades": [
+            22,
+            27
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 13,
+    "fields": {
+        "nombre_completo": "Pastor del Seguí",
+        "numero_colegiado": "M-84118",
+        "descripcion": "Partidos propios siempre va. Poder parece puerta partir gracias.\nEstado volver ayuda j fuerza jorge. Productos padre cara dicen habrá. Podemos incluso habían presenta. Real ellos capaz.",
+        "email": "tbarco@example.org",
+        "telefono": "+34 984 227 399",
+        "web": "https://compania.es/",
+        "modalidad": "Presencial",
+        "precio_sesion": "80.36",
+        "fecha_alta": "2026-10-23",
+        "user": null,
+        "especialidades": [
+            24,
+            26,
+            28
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 14,
+    "fields": {
+        "nombre_completo": "Gaspar del Quintanilla",
+        "numero_colegiado": "M-20006",
+        "descripcion": "Ejemplo garcía costa volvió médico secretario suficiente. Poner último está u. Rey profesional mes francia chile lópez cargo.",
+        "email": "tecla26@example.net",
+        "telefono": "+34900956744",
+        "web": "https://www.logistica.org/",
+        "modalidad": "Online",
+        "precio_sesion": "39.97",
+        "fecha_alta": "2026-10-23",
+        "user": null,
+        "especialidades": [
+            23,
+            29
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 15,
+    "fields": {
+        "nombre_completo": "Lucía Manu Palomar Salvador",
+        "numero_colegiado": "M-95891",
+        "descripcion": "Pasa lópez será torno lleva aumento hijos.\nPosibilidades mujeres hombre viaje antonio vuelta hubiera. Unidad movimiento nadie sí sociales está del vuelta.",
+        "email": "aracelisala@example.net",
+        "telefono": "+34925412988",
+        "web": "https://mineria.es/",
+        "modalidad": "Presencial",
+        "precio_sesion": "30.42",
+        "fecha_alta": "2026-10-23",
+        "user": null,
+        "especialidades": [
+            21,
+            24,
+            29
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 16,
+    "fields": {
+        "nombre_completo": "Natalia Donaire Prado",
+        "numero_colegiado": "M-49376",
+        "descripcion": "Europea aspectos fecha sabía. Cosa armas llama número resultado. Corte mira etapa. Bueno podemos victoria época modo mar.",
+        "email": "franciscaaragon@example.com",
+        "telefono": "+34 850 726 874",
+        "web": "https://pulido.com/",
+        "modalidad": "Online",
+        "precio_sesion": "61.61",
+        "fecha_alta": "2026-10-23",
+        "user": null,
+        "especialidades": [
+            21,
+            28,
+            30
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 17,
+    "fields": {
+        "nombre_completo": "Sosimo Amorós Arnal",
+        "numero_colegiado": "M-53098",
+        "descripcion": "Carácter francia lado grupo primero radio. He siempre mejor mediante salud efecto. Entre era fútbol período en.",
+        "email": "feijoomaria@example.org",
+        "telefono": "+34 877 123 457",
+        "web": "https://mineria.com/",
+        "modalidad": "Online",
+        "precio_sesion": "72.25",
+        "fecha_alta": "2026-10-23",
+        "user": null,
+        "especialidades": [
+            24,
+            28
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 18,
+    "fields": {
+        "nombre_completo": "Valentín Méndez Garay",
+        "numero_colegiado": "M-23129",
+        "descripcion": "Evitar violencia personas nos cierto profesional. Riesgo cerca distintos les hemos quién único. Donde plaza país cada común zonas pone jóvenes.",
+        "email": "puenteabilio@example.net",
+        "telefono": "+34973 84 24 20",
+        "web": "https://www.hnos.es/",
+        "modalidad": "Presencial",
+        "precio_sesion": "46.78",
+        "fecha_alta": "2026-10-23",
+        "user": null,
+        "especialidades": [
+            28
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 19,
+    "fields": {
+        "nombre_completo": "Moreno Arrieta-Mena",
+        "numero_colegiado": "M-12999",
+        "descripcion": "Buena nacional peor considera enero especial. Particular programa cambio figura puntos máximo mundo. Casa tratamiento música educación segunda.",
+        "email": "fmayol@example.net",
+        "telefono": "+34983709568",
+        "web": "http://infraestructuras.es/",
+        "modalidad": "Online",
+        "precio_sesion": "79.77",
+        "fecha_alta": "2026-10-23",
+        "user": null,
+        "especialidades": [
+            25
+        ]
+    }
+},
+{
+    "model": "FocoQuest.psicologo",
+    "pk": 20,
+    "fields": {
+        "nombre_completo": "Amor Tejera Garmendia",
+        "numero_colegiado": "M-18354",
+        "descripcion": "Creación ser cine pesetas eran. Media militar mí próximo como. Seguridad nada entre conocer por abril. Posibilidades pronto formación metros principio trabajar consejo.",
+        "email": "carolinamillan@example.com",
+        "telefono": "+34946 668 983",
+        "web": "https://www.duran.es/",
+        "modalidad": "Presencial",
+        "precio_sesion": "34.69",
+        "fecha_alta": "2026-10-23",
+        "user": null,
+        "especialidades": [
+            24
+        ]
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 1,
+    "fields": {
+        "codigo": "Difference there easy do deep field politics.",
+        "nombre": "Million yard dream star. Half power scene near. Miss become more end.",
+        "descripcion": "Officer would imagine mission skill very.\nMy court cultural recognize girl state marriage. Law form reach them skin recent east economy.",
+        "xp_recompensa": 50,
+        "icono_url": "https://smith.com/search/explorefaq.asp"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 2,
+    "fields": {
+        "codigo": "Option successful small strong strong care while.",
+        "nombre": "Can of art first car alone. Serve activity subject fast.",
+        "descripcion": "Moment certain apply remain eye her. Blue unit investment about truth book nation often. Blue grow child tend five none.\nSkin push behavior when. Picture get hour range teach quickly community.",
+        "xp_recompensa": 50,
+        "icono_url": "https://www.green.com/categoriesprivacy.asp"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 3,
+    "fields": {
+        "codigo": "Sometimes project real. Save write author ask.",
+        "nombre": "Product act writer me. Kid majority agree management.",
+        "descripcion": "Campaign issue make stand field.\nHope compare cup miss society.\nVote third condition control home kind play. Tend strong trade court image check want.",
+        "xp_recompensa": 50,
+        "icono_url": "http://clements.org/posts/list/tagcategory.html"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 4,
+    "fields": {
+        "codigo": "Concern sit half.",
+        "nombre": "Office social successful last explain say. Method car good you son.",
+        "descripcion": "Leave a care. Democrat economic nature himself unit other radio.\nTell health choose dream sit increase offer. Space data design role range real drug. Second everything officer standard rather.",
+        "xp_recompensa": 50,
+        "icono_url": "http://peterson.org/categories/search/exploreterms.jsp"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 5,
+    "fields": {
+        "codigo": "Suggest behind really trip.",
+        "nombre": "South help parent white remain. Than point above network sister.",
+        "descripcion": "Computer practice first our see soon. Teach however particularly authority process available community. Another yes hour once believe more evidence.",
+        "xp_recompensa": 50,
+        "icono_url": "https://rose.com/tagssearch.html"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 6,
+    "fields": {
+        "codigo": "Study find clear admit leader.",
+        "nombre": "Response foreign write. Level likely investment large finish cultural action.",
+        "descripcion": "Standard identify word upon face all idea husband. Final represent expect improve the bad. Letter argue crime response word investment.\nCareer seat watch she create gun region.",
+        "xp_recompensa": 50,
+        "icono_url": "https://anderson-davis.org/categories/tag/blogauthor.htm"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 7,
+    "fields": {
+        "codigo": "Action partner second three.",
+        "nombre": "Life conference add occur view reason why.",
+        "descripcion": "Wife teacher statement these. Order himself listen.\nPartner camera remain pattern girl successful. Worker effect east change call rise. As leave subject pay response perform method.",
+        "xp_recompensa": 50,
+        "icono_url": "http://www.smith-brown.net/wp-content/listindex.asp"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 8,
+    "fields": {
+        "codigo": "Cultural career form young far.",
+        "nombre": "Finally probably might war across. Republican free side partner expert body.",
+        "descripcion": "Hour yes surface box. Perform although ten open enjoy. Crime page when left church agree fast.\nRate kind section his. Wrong certain company town memory tree. Yet make each water early common.",
+        "xp_recompensa": 50,
+        "icono_url": "http://warren-lee.com/postscategory.asp"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 9,
+    "fields": {
+        "codigo": "Guess sell necessary listen see trade none civil.",
+        "nombre": "Force wait score kind suffer trial.",
+        "descripcion": "Tell compare green spend. Third join direction capital against. Guess popular sure. Beyond brother article piece both claim.",
+        "xp_recompensa": 50,
+        "icono_url": "https://www.werner-carroll.org/wp-contentpost.html"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 10,
+    "fields": {
+        "codigo": "Social cost white lead sure our.",
+        "nombre": "Test decide simple student message two. Mean animal year situation.",
+        "descripcion": "Whole appear professional probably garden child. Talk issue who this present list.\nDrop allow no will military relationship central. Despite tell assume large check.",
+        "xp_recompensa": 50,
+        "icono_url": "https://oneill-skinner.com/listmain.jsp"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 11,
+    "fields": {
+        "codigo": "Daughter computer against then whether catch.",
+        "nombre": "Adult control five young less color. South party tree these.",
+        "descripcion": "Across likely information section significant. Standard significant ten law too consider which. After anyone apply force.\nEntire process away billion. Reality computer better provide college can.",
+        "xp_recompensa": 50,
+        "icono_url": "http://george.com/main/category/listregister.php"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 12,
+    "fields": {
+        "codigo": "Step position remember arm second note agency.",
+        "nombre": "Should most Mrs discussion buy. Card father share buy again.",
+        "descripcion": "These short right into state than ago. Husband site strong century range machine require. Teacher realize will.\nCenter could into cell. Peace hair today including various. Region decide hope put.",
+        "xp_recompensa": 50,
+        "icono_url": "http://www.potter.net/category/tag/categorieshomepage.html"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 13,
+    "fields": {
+        "codigo": "Bed note TV public according until open study.",
+        "nombre": "Read federal miss beautiful. Measure very such morning artist.",
+        "descripcion": "Ready door buy about party still boy. Service scientist page five such eight real. Old reduce must painting front red hour.",
+        "xp_recompensa": 50,
+        "icono_url": "http://sexton.net/category/postsauthor.php"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 14,
+    "fields": {
+        "codigo": "Human enter region sport walk.",
+        "nombre": "Some wrong bring if already. Level adult watch blood help seat.",
+        "descripcion": "Suffer brother but next necessary whom allow fact. Network big growth. Part sister nor century.",
+        "xp_recompensa": 50,
+        "icono_url": "https://williams.com/tags/listabout.php"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 15,
+    "fields": {
+        "codigo": "Lead year news old mind huge physical.",
+        "nombre": "Wrong set green understand. Much painting catch.",
+        "descripcion": "Foot kind bag prevent. Staff evening individual within focus reveal others. Technology indeed similar room community water son.\nSize four team. Music fall possible appear.",
+        "xp_recompensa": 50,
+        "icono_url": "http://jones.com/categoriescategory.php"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 16,
+    "fields": {
+        "codigo": "Wait reason expect attention.",
+        "nombre": "Wife charge one five worker source cell.",
+        "descripcion": "Western glass full spring. Beautiful yourself first place. Anyone as remain daughter general sit parent.\nImprove Mrs type how another. Market mind hold student even behind.",
+        "xp_recompensa": 50,
+        "icono_url": "http://estrada.biz/main/blog/tagindex.php"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 17,
+    "fields": {
+        "codigo": "Capital produce mouth table move.",
+        "nombre": "Build close adult his office culture.",
+        "descripcion": "Fight group seek direction. Total anyone someone success letter her agent between.\nForward professor consumer reduce election major. Since company medical. Life box simply take.",
+        "xp_recompensa": 50,
+        "icono_url": "http://williams.com/listsearch.html"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 18,
+    "fields": {
+        "codigo": "Media area voice claim remain focus anyone.",
+        "nombre": "Stage book skill spring. Agree ability lot white our plant minute.",
+        "descripcion": "Reach story computer discuss expect into capital.\nMust parent large what. Technology consumer western lose.\nUntil dinner head. Or draw yard clear four center last material.",
+        "xp_recompensa": 50,
+        "icono_url": "http://www.mitchell-hunter.biz/category/category/mainmain.html"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 19,
+    "fields": {
+        "codigo": "Reality image radio event factor family ready.",
+        "nombre": "Couple together matter ground six. Learn way imagine scientist treat church.",
+        "descripcion": "Accept mother life high exist dog reality.\nSpeech site plant camera artist theory. Trip foreign age wrong brother free he continue. Rich policy story he face affect.",
+        "xp_recompensa": 50,
+        "icono_url": "https://www.mendoza.com/tagpost.html"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 20,
+    "fields": {
+        "codigo": "Purpose indeed individual house wind mean doctor.",
+        "nombre": "Particularly work already strong. Hour offer bit century.",
+        "descripcion": "See kid will admit carry listen. According type name relate order issue.\nDevelopment defense allow. Only daughter time similar career.",
+        "xp_recompensa": 50,
+        "icono_url": "https://baker-moore.biz/category/search/mainfaq.html"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 21,
+    "fields": {
+        "codigo": "LOGRO_7738",
+        "nombre": "Da noviembre",
+        "descripcion": "Además seguridad juicio santiago dos. Cerca juez niveles base los ha.",
+        "xp_recompensa": 286,
+        "icono_url": "https://picsum.photos/467/797"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 22,
+    "fields": {
+        "codigo": "LOGRO_5390",
+        "nombre": "Director central vez",
+        "descripcion": "N aun esas aumento cierto. Desde ahora cierta iba los américa m.",
+        "xp_recompensa": 98,
+        "icono_url": "https://dummyimage.com/85x687"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 23,
+    "fields": {
+        "codigo": "LOGRO_2625",
+        "nombre": "Cambio hablar",
+        "descripcion": "Apenas perdido ciudad obstante comisión república. Escuela costa fácil ir objeto interés última pues.",
+        "xp_recompensa": 498,
+        "icono_url": "https://dummyimage.com/479x653"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 24,
+    "fields": {
+        "codigo": "LOGRO_5987",
+        "nombre": "Aun donde ayuda",
+        "descripcion": "Cultural equipo libros m no. Tenemos empresas fecha parte. Casos tipos llegar hicieron otros tanto luis unidos.",
+        "xp_recompensa": 485,
+        "icono_url": "https://picsum.photos/786/192"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 25,
+    "fields": {
+        "codigo": "LOGRO_2911",
+        "nombre": "Ninguna vio",
+        "descripcion": "Razón tenemos posición deben allí sola. Pueden términos fuerte felipe.",
+        "xp_recompensa": 354,
+        "icono_url": "https://placekittens.com/612/120"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 26,
+    "fields": {
+        "codigo": "LOGRO_1221",
+        "nombre": "Torno europa cultura",
+        "descripcion": "Él tampoco algún amor día relación. Economía resto ciudad.",
+        "xp_recompensa": 186,
+        "icono_url": "https://dummyimage.com/486x150"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 27,
+    "fields": {
+        "codigo": "LOGRO_2672",
+        "nombre": "Los sino media",
+        "descripcion": "Cine américa características calle. Efecto jefe nunca tras.",
+        "xp_recompensa": 260,
+        "icono_url": "https://dummyimage.com/936x391"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 28,
+    "fields": {
+        "codigo": "LOGRO_4076",
+        "nombre": "Opinión soy joven",
+        "descripcion": "Efecto madre madre personas muchas trata jorge. Precio unas club si ojos palabras habría.",
+        "xp_recompensa": 18,
+        "icono_url": "https://placekittens.com/155/296"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 29,
+    "fields": {
+        "codigo": "LOGRO_9570",
+        "nombre": "Jefe título tiene",
+        "descripcion": "Popular tipos vez. B santiago día supuesto estudio.",
+        "xp_recompensa": 108,
+        "icono_url": "https://picsum.photos/911/750"
+    }
+},
+{
+    "model": "FocoQuest.logro",
+    "pk": 30,
+    "fields": {
+        "codigo": "LOGRO_9200",
+        "nombre": "Costa verdad realizar",
+        "descripcion": "Existe distintos miembros partir personal. Punto entonces pudo cosa santa económico constitución.",
+        "xp_recompensa": 479,
+        "icono_url": "https://picsum.photos/308/276"
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 1,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.084Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 1,
+        "logro": 11
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 2,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.086Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 1,
+        "logro": 15
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 3,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.100Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 2,
+        "logro": 13
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 4,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.102Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 2,
+        "logro": 19
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 5,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.103Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 2,
+        "logro": 16
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 6,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.117Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 3,
+        "logro": 20
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 7,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.134Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 4,
+        "logro": 18
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 8,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.137Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 4,
+        "logro": 19
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 9,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.164Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 5,
+        "logro": 11
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 10,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.165Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 5,
+        "logro": 16
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 11,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.166Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 5,
+        "logro": 14
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 12,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.198Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 6,
+        "logro": 11
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 13,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.200Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 6,
+        "logro": 16
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 14,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.216Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 7,
+        "logro": 16
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 15,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.217Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 7,
+        "logro": 20
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 16,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.239Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 8,
+        "logro": 19
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 17,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.252Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 9,
+        "logro": 11
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 18,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.267Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 10,
+        "logro": 18
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 19,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.268Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 10,
+        "logro": 17
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 20,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T15:56:52.269Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 10,
+        "logro": 12
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 21,
+    "fields": {
+        "fecha_obtencion": "1993-03-06T21:17:58.183Z",
+        "progreso": -28562,
+        "destacado": false,
+        "notificado": true,
+        "perfil": 9,
+        "logro": 18
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 22,
+    "fields": {
+        "fecha_obtencion": "1977-10-19T01:15:46.153Z",
+        "progreso": 7552,
+        "destacado": true,
+        "notificado": false,
+        "perfil": 1,
+        "logro": 14
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 23,
+    "fields": {
+        "fecha_obtencion": "1991-11-01T10:14:30.514Z",
+        "progreso": 12600,
+        "destacado": true,
+        "notificado": false,
+        "perfil": 6,
+        "logro": 17
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 24,
+    "fields": {
+        "fecha_obtencion": "1980-12-25T12:51:34.054Z",
+        "progreso": 6088,
+        "destacado": false,
+        "notificado": true,
+        "perfil": 6,
+        "logro": 16
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 25,
+    "fields": {
+        "fecha_obtencion": "1970-10-14T04:40:06.096Z",
+        "progreso": 13632,
+        "destacado": true,
+        "notificado": false,
+        "perfil": 6,
+        "logro": 15
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 26,
+    "fields": {
+        "fecha_obtencion": "2012-09-01T03:12:43.968Z",
+        "progreso": -2538,
+        "destacado": true,
+        "notificado": false,
+        "perfil": 5,
+        "logro": 12
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 27,
+    "fields": {
+        "fecha_obtencion": "1983-08-06T12:34:47.612Z",
+        "progreso": -25637,
+        "destacado": false,
+        "notificado": true,
+        "perfil": 10,
+        "logro": 13
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 28,
+    "fields": {
+        "fecha_obtencion": "1989-04-15T16:39:55.663Z",
+        "progreso": -20810,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 2,
+        "logro": 17
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 29,
+    "fields": {
+        "fecha_obtencion": "2003-08-08T21:15:50.608Z",
+        "progreso": -28107,
+        "destacado": true,
+        "notificado": true,
+        "perfil": 10,
+        "logro": 16
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 30,
+    "fields": {
+        "fecha_obtencion": "2000-11-09T12:55:49.825Z",
+        "progreso": -16491,
+        "destacado": true,
+        "notificado": true,
+        "perfil": 1,
+        "logro": 17
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 31,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T16:12:09.418Z",
+        "progreso": 19,
+        "destacado": true,
+        "notificado": false,
+        "perfil": 17,
+        "logro": 23
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 32,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T16:12:09.427Z",
+        "progreso": 73,
+        "destacado": false,
+        "notificado": true,
+        "perfil": 18,
+        "logro": 23
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 33,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T16:12:09.435Z",
+        "progreso": 58,
+        "destacado": false,
+        "notificado": true,
+        "perfil": 19,
+        "logro": 30
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 34,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T16:12:09.444Z",
+        "progreso": 93,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 19,
+        "logro": 27
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 35,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T16:12:09.452Z",
+        "progreso": 44,
+        "destacado": true,
+        "notificado": true,
+        "perfil": 18,
+        "logro": 26
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 36,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T16:12:09.461Z",
+        "progreso": 87,
+        "destacado": false,
+        "notificado": true,
+        "perfil": 12,
+        "logro": 21
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 37,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T16:12:09.469Z",
+        "progreso": 5,
+        "destacado": true,
+        "notificado": false,
+        "perfil": 19,
+        "logro": 23
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 38,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T16:12:09.478Z",
+        "progreso": 96,
+        "destacado": false,
+        "notificado": true,
+        "perfil": 19,
+        "logro": 24
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 39,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T16:12:09.487Z",
+        "progreso": 12,
+        "destacado": false,
+        "notificado": true,
+        "perfil": 13,
+        "logro": 21
+    }
+},
+{
+    "model": "FocoQuest.obtencionlogro",
+    "pk": 40,
+    "fields": {
+        "fecha_obtencion": "2026-10-23T16:12:09.495Z",
+        "progreso": 0,
+        "destacado": false,
+        "notificado": false,
+        "perfil": 16,
+        "logro": 23
+    }
+}
+]
