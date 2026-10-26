@@ -25,7 +25,7 @@ Modelos y Atributos
 
     Atributos: objetivo (tipo de estudiante), nivel y xp (progreso), racha_actual/maxima (constancia), ultimo_dia_activo, fecha_nacimiento, biografia, hora_recordatorio, notificaciones_push, acepta_tratamiento_salud, actualizado.
 
-    Relaciones: user (User 1:1), logros (N:M), psicologos_favoritos (N:M).
+    Relaciones: user (User 1:1), psicologos(N:M).
 
 2. Mascota: Avatar virtual asociado al usuario.
 
@@ -49,7 +49,7 @@ Modelos y Atributos
 
     Atributos: estado (emoción), nivel_estres (1-10), horas_sueno, comentario, creado.
 
-    Relaciones: sesion (1:1, un registro por sesión).
+    Relaciones: SesionEstudio (1:1, un registro por sesión).
 
 6. Tarjeta: Flashcards para repetición espaciada.
 
